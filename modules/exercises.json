@@ -1,0 +1,246 @@
+{
+  "exercises": {
+    "children": {
+      "male": {
+        "normal": [
+          { "name": "Jump Rope", "type": "jump", "video": "assets/videos/jump_rope.mp4" },
+          { "name": "Crab Toe Touches", "type": "strength", "video": "assets/videos/crab_toe_touches.mp4" },
+          { "name": "Floor Dip", "type": "strength", "video": "assets/videos/floor_dip.mp4" },
+          { "name": "Forward Bend Stretching", "type": "stretch", "video": "assets/videos/forward_bend.mp4" },
+          { "name": "Knee Push Ups", "type": "strength", "video": "assets/videos/knee_pushups.mp4" },
+          { "name": "Skipping Rope", "type": "jump", "video": "assets/videos/skipping_rope.mp4" },
+          { "name": "Mountain Climbers", "type": "cardio", "video": "assets/videos/mountain_climbers.mp4" },
+          { "name": "Plank Holds", "type": "core", "video": "assets/videos/plank_holds.mp4" },
+          { "name": "Forward Lunges", "type": "strength", "video": "assets/videos/forward_lunges.mp4" },
+          { "name": "Frog Jumps", "type": "jump", "video": "assets/videos/frog_jumps.mp4" }
+        ],
+        "underweight": [
+          { "name": "Jumping Jacks", "type": "jump", "video": "assets/videos/jumping_jacks.mp4" },
+          { "name": "Bodyweight Squats", "type": "strength", "video": "assets/videos/bodyweight_squats.mp4" },
+          { "name": "Push-Ups (Modified)", "type": "strength", "video": "assets/videos/pushups_modified.mp4" },
+          { "name": "Mountain Climbers", "type": "cardio", "video": "assets/videos/mountain_climbers.mp4" },
+          { "name": "Superman Pose", "type": "core", "video": "assets/videos/superman_pose.mp4" },
+          { "name": "Plank Shoulder Taps", "type": "core", "video": "assets/videos/plank_shoulder_taps.mp4" },
+          { "name": "Lunges", "type": "strength", "video": "assets/videos/lunges.mp4" },
+          { "name": "Side Plank (Modified)", "type": "core", "video": "assets/videos/side_plank_modified.mp4" },
+          { "name": "Skipping Rope", "type": "jump", "video": "assets/videos/skipping_rope.mp4" },
+          { "name": "High Knees", "type": "cardio", "video": "assets/videos/high_knees.mp4" }
+        ],
+        "overweight": [
+          { "name": "Jump Rope", "type": "jump", "video": "assets/videos/jump_rope.mp4" },
+          { "name": "Crab Toe Touches", "type": "strength", "video": "assets/videos/crab_toe_touches.mp4" },
+          { "name": "Floor Dip", "type": "strength", "video": "assets/videos/floor_dip.mp4" },
+          { "name": "Forward Bend Stretching", "type": "stretch", "video": "assets/videos/forward_bend.mp4" },
+          { "name": "Knee Push Ups", "type": "strength", "video": "assets/videos/knee_pushups.mp4" },
+          { "name": "Resistance Band Squatting", "type": "strength", "video": "assets/videos/resistance_band_squatting.mp4" },
+          { "name": "Shoulder Single Arm Front Raises", "type": "strength", "video": "assets/videos/single_arm_front_raises.mp4" },
+          { "name": "Wall Sit", "type": "strength", "video": "assets/videos/wall_sit.mp4" },
+          { "name": "Mountain Climbers", "type": "cardio", "video": "assets/videos/mountain_climbers.mp4" },
+          { "name": "Lunges", "type": "strength", "video": "assets/videos/lunges.mp4" }
+        ]
+      }
+    },
+    "teenagers": {
+      "male": {
+ "normal": [
+          { "name": "Jumping Jacks", "type": "jump", "video": "assets/videos/jumping_jacks.mp4" },
+          { "name": "Bodyweight Squats", "type": "strength", "video": "assets/videos/bodyweight_squats.mp4" },
+          { "name": "Push-Ups", "type": "strength", "video": "assets/videos/pushups.mp4" },
+          { "name": "Mountain Climbers", "type": "cardio", "video": "assets/videos/mountain_climbers.mp4" },
+          { "name": "Plank Holds", "type": "core", "video": "assets/videos/plank_holds.mp4" },
+          { "name": "Forward Lunges", "type": "strength", "video": "assets/videos/forward_lunges.mp4" },
+          { "name": "Burpees (Simplified)", "type": "cardio", "video": "assets/videos/burpees_simplified.mp4" },
+          { "name": "Side Bridge with Leg Lift", "type": "core", "video": "assets/videos/side_bridge_leg_lift.mp4" },
+          { "name": "Skipping Rope", "type": "jump", "video": "assets/videos/skipping_rope.mp4" },
+          { "name": "Frog Jumps", "type": "jump", "video": "assets/videos/frog_jumps.mp4" }
+        ],
+"underweight": [
+          { "name": "Jumping Jacks", "type": "jump", "video": "assets/videos/jumping_jacks.mp4" },
+          { "name": "Bodyweight Squats", "type": "strength", "video": "assets/videos/bodyweight_squats.mp4" },
+          { "name": "Push-Ups (Modified)", "type": "strength", "video": "assets/videos/pushups_modified.mp4" },
+          { "name": "Mountain Climbers", "type": "cardio", "video": "assets/videos/mountain_climbers.mp4" },
+          { "name": "Superman Pose", "type": "core", "video": "assets/videos/superman_pose.mp4" },
+          { "name": "Plank Shoulder Taps", "type": "core", "video": "assets/videos/plank_shoulder_taps.mp4" },
+          { "name": "Lunges", "type": "strength", "video": "assets/videos/lunges.mp4" },
+          { "name": "Side Plank (Modified)", "type": "core", "video": "assets/videos/side_plank_modified.mp4" },
+          { "name": "Skipping Rope", "type": "jump", "video": "assets/videos/skipping_rope.mp4" },
+          { "name": "High Knees", "type": "cardio", "video": "assets/videos/high_knees.mp4" }
+        ],
+        "overweight": [
+          { "name": "Jump Rope", "type": "jump", "video": "assets/videos/jump_rope.mp4" },
+          { "name": "Crab Toe Touches", "type": "strength", "video": "assets/videos/crab_toe_touches.mp4" },
+          { "name": "Floor Dip", "type": "strength", "video": "assets/videos/floor_dip.mp4" },
+          { "name": "Forward Bend Stretching", "type": "stretch", "video": "assets/videos/forward_bend.mp4" },
+          { "name": "Knee Push Ups", "type": "strength", "video": "assets/videos/knee_pushups.mp4" },
+          { "name": "Resistance Band Squatting", "type": "strength", "video": "assets/videos/resistance_band_squatting.mp4" },
+          { "name": "Shoulder Single Arm Front Raises", "type": "strength", "video": "assets/videos/single_arm_front_raises.mp4" },
+          { "name": "Wall Sit", "type": "strength", "video": "assets/videos/wall_sit.mp4" },
+          { "name": "Mountain Climbers", "type": "cardio", "video": "assets/videos/mountain_climbers.mp4" },
+          { "name": "Lunges", "type": "strength", "video": "assets/videos/lunges.mp4" }
+        ]
+
+      }
+    },
+    "adult": {
+      "male": {
+        "normal": [
+          { "name": "Jumping Jacks", "type": "jump", "video": "assets/videos/jumping_jacks.mp4" },
+          { "name": "Bodyweight Squats", "type": "strength", "video": "assets/videos/bodyweight_squats.mp4" },
+          { "name": "Push-Ups", "type": "strength", "video": "assets/videos/pushups.mp4" },
+          { "name": "Mountain Climbers", "type": "cardio", "video": "assets/videos/mountain_climbers.mp4" },
+          { "name": "Plank Holds", "type": "core", "video": "assets/videos/plank_holds.mp4" },
+          { "name": "Forward Lunges", "type": "strength", "video": "assets/videos/forward_lunges.mp4" },
+          { "name": "Burpees", "type": "cardio", "video": "assets/videos/burpees.mp4" },
+          { "name": "Side Bridge with Leg Lift", "type": "core", "video": "assets/videos/side_bridge_leg_lift.mp4" },
+          { "name": "Skipping Rope", "type": "jump", "video": "assets/videos/skipping_rope.mp4" },
+          { "name": "Frog Jumps", "type": "jump", "video": "assets/videos/frog_jumps.mp4" }
+        ],
+        "underweight": [
+          { "name": "Resistance Band Deadlifts", "type": "strength", "video": "assets/videos/resistance_band_deadlifts.mp4" },
+          { "name": "Incline Push-Ups", "type": "strength", "video": "assets/videos/incline_pushups.mp4" },
+          { "name": "Step-Ups", "type": "strength", "video": "assets/videos/step_ups.mp4" },
+          { "name": "High Knees", "type": "cardio", "video": "assets/videos/high_knees.mp4" },
+          { "name": "Russian Twists", "type": "core", "video": "assets/videos/russian_twists.mp4" },
+          { "name": "Leg Raises", "type": "core", "video": "assets/videos/leg_raises.mp4" },
+          { "name": "Wall Push-Ups", "type": "strength", "video": "assets/videos/wall_pushups.mp4" },
+          { "name": "Seated Leg Lifts", "type": "core", "video": "assets/videos/seated_leg_lifts.mp4" },
+          { "name": "Jumping Rope", "type": "jump", "video": "assets/videos/jumping_rope.mp4" },
+          { "name": "Bicycle Crunches", "type": "core", "video": "assets/videos/bicycle_crunches.mp4" }
+        ],
+        "overweight": [
+          { "name": "Jump Rope", "type": "jump", "video": "assets/videos/jump_rope.mp4" },
+          { "name": "Crab Toe Touches", "type": "strength", "video": "assets/videos/crab_toe_touches.mp4" },
+          { "name": "Floor Dip", "type": "strength", "video": "assets/videos/floor_dip.mp4" },
+          { "name": "Forward Bend Stretching", "type": "stretch", "video": "assets/videos/forward_bend.mp4" },
+          { "name": "Knee Push Ups", "type": "strength", "video": "assets/videos/knee_pushups.mp4" },
+          { "name": "Resistance Band Squatting", "type": "strength", "video": "assets/videos/resistance_band_squatting.mp4" },
+          { "name": "Shoulder Single Arm Front Raises", "type": "strength", "video": "assets/videos/single_arm_front_raises.mp4" },
+          { "name": "Wall Sit", "type": "strength", "video": "assets/videos/wall_sit.mp4" },
+          { "name": "Mountain Climbers", "type": "cardio", "video": "assets/videos/mountain_climbers.mp4" },
+          { "name": "Lunges", "type": "strength", "video": "assets/videos/lunges.mp4" }
+        ]
+ }
+},
+"children": {
+"female": {
+      "normal": [
+        { "name": "Alternating Hurdles Exercise", "type": "cardio", "video": "assets/videos/alternating_hurdles.mp4" },
+        { "name": "Bent Knees Bench Dip Exercise", "type": "strength", "video": "assets/videos/bent_knees_bench_dip.mp4" },
+        { "name": "Bicycle Crunch Exercise", "type": "core", "video": "assets/videos/bicycle_crunch.mp4" },
+        { "name": "Bridge Marching", "type": "strength", "video": "assets/videos/bridge_marching.mp4" },
+        { "name": "Donkey Kicks Pulses", "type": "strength", "video": "assets/videos/donkey_kicks_pulses.mp4" },
+        { "name": "Elbow-to-Knee Crunch", "type": "core", "video": "assets/videos/elbow_to_knee_crunch.mp4" },
+        { "name": "Glute Bridge Exercise", "type": "strength", "video": "assets/videos/glute_bridge.mp4" },
+        { "name": "Plank Frog Jump Exercise", "type": "core", "video": "assets/videos/plank_frog_jump.mp4" },
+        { "name": "Side Left Leg Raises Exercise", "type": "strength", "video": "assets/videos/side_left_leg_raises.mp4" },
+        { "name": "Side Right Leg Raises Exercise", "type": "strength", "video": "assets/videos/side_right_leg_raises.mp4" }
+      ],
+      "underweight": [
+        { "name": "Alternating Hurdles Exercise", "type": "cardio", "video": "assets/videos/alternating_hurdles.mp4" },
+        { "name": "Bicycle Crunch Exercise", "type": "core", "video": "assets/videos/bicycle_crunch.mp4" },
+        { "name": "Cocoons Exercise", "type": "core", "video": "assets/videos/cocoons.mp4" },
+        { "name": "Donkey Kicks Pulses", "type": "strength", "video": "assets/videos/donkey_kicks_pulses.mp4" },
+        { "name": "Elbow-to-Knee Crunch", "type": "core", "video": "assets/videos/elbow_to_knee_crunch.mp4" },
+        { "name": "Glute Bridge Exercise", "type": "strength", "video": "assets/videos/glute_bridge.mp4" },
+        { "name": "Knee Push-Up Exercise", "type": "strength", "video": "assets/videos/knee_pushup.mp4" },
+        { "name": "Leg Pull Low Plank", "type": "core", "video": "assets/videos/leg_pull_low_plank.mp4" },
+        { "name": "Plank Shoulder Tap Exercise", "type": "core", "video": "assets/videos/plank_shoulder_tap.mp4" },
+        { "name": "Running Plank Exercise", "type": "cardio", "video": "assets/videos/running_plank.mp4" }
+      ],
+      "overweight": [
+        { "name": "Bent Knees Bench Dip Exercise", "type": "strength", "video": "assets/videos/bent_knees_bench_dip.mp4" },
+        { "name": "Bicycle Crunch Exercise", "type": "core", "video": "assets/videos/bicycle_crunch.mp4" },
+        { "name": "Bridge Marching", "type": "strength", "video": "assets/videos/bridge_marching.mp4" },
+        { "name": "Cocoons Exercise", "type": "core", "video": "assets/videos/cocoons.mp4" },
+        { "name": "Donkey Kicks Pulses", "type": "strength", "video": "assets/videos/donkey_kicks_pulses.mp4" },
+        { "name": "Knee Push-Up Exercise", "type": "strength", "video": "assets/videos/knee_pushup.mp4" },
+        { "name": "Pistol Squat Exercise", "type": "strength", "video": "assets/videos/pistol_squat.mp4" },
+        { "name": "Plank Frog Jump Exercise", "type": "core", "video": "assets/videos/plank_frog_jump.mp4" },
+        { "name": "Sumo Squat Jumps", "type": "strength", "video": "assets/videos/sumo_squat_jumps.mp4" },
+        { "name": "Side Left Leg Raises Exercise", "type": "strength", "video": "assets/videos/side_left_leg_raises.mp4" }
+      ]
+    }
+  },
+  "teenagers": {
+ "female": {
+"normal": [
+        { "name": "Alternating Hurdles Exercise", "type": "cardio", "video": "assets/videos/alternating_hurdles.mp4" },
+        { "name": "Bent Knees Bench Dip Exercise", "type": "strength", "video": "assets/videos/bent_knees_bench_dip.mp4" },
+        { "name": "Bicycle Crunch Exercise", "type": "core", "video": "assets/videos/bicycle_crunch.mp4" },
+        { "name": "Bridge Marching", "type": "strength", "video": "assets/videos/bridge_marching.mp4" },
+        { "name": "Donkey Kicks Pulses", "type": "strength", "video": "assets/videos/donkey_kicks_pulses.mp4" },
+        { "name": "Elbow-to-Knee Crunch", "type": "core", "video": "assets/videos/elbow_to_knee_crunch.mp4" },
+        { "name": "Glute Bridge Exercise", "type": "strength", "video": "assets/videos/glute_bridge.mp4" },
+        { "name": "Plank Frog Jump Exercise", "type": "core", "video": "assets/videos/plank_frog_jump.mp4" },
+        { "name": "Side Left Leg Raises Exercise", "type": "strength", "video": "assets/videos/side_left_leg_raises.mp4" },
+        { "name": "Side Right Leg Raises Exercise", "type": "strength", "video": "assets/videos/side_right_leg_raises.mp4" }
+      ],
+      "underweight": [
+        { "name": "Alternating Hurdles Exercise", "type": "cardio", "video": "assets/videos/alternating_hurdles.mp4" },
+        { "name": "Bicycle Crunch Exercise", "type": "core", "video": "assets/videos/bicycle_crunch.mp4" },
+        { "name": "Cocoons Exercise", "type": "core", "video": "assets/videos/cocoons.mp4" },
+        { "name": "Donkey Kicks Pulses", "type": "strength", "video": "assets/videos/donkey_kicks_pulses.mp4" },
+        { "name": "Elbow-to-Knee Crunch", "type": "core", "video": "assets/videos/elbow_to_knee_crunch.mp4" },
+        { "name": "Glute Bridge Exercise", "type": "strength", "video": "assets/videos/glute_bridge.mp4" },
+        { "name": "Knee Push-Up Exercise", "type": "strength", "video": "assets/videos/knee_pushup.mp4" },
+        { "name": "Leg Pull Low Plank", "type": "core", "video": "assets/videos/leg_pull_low_plank.mp4" },
+        { "name": "Plank Shoulder Tap Exercise", "type": "core", "video": "assets/videos/plank_shoulder_tap.mp4" },
+        { "name": "Running Plank Exercise", "type": "cardio", "video": "assets/videos/running_plank.mp4" }
+      ],
+      "overweight": [
+        { "name": "Bent Knees Bench Dip Exercise", "type": "strength", "video": "assets/videos/bent_knees_bench_dip.mp4" },
+        { "name": "Bicycle Crunch Exercise", "type": "core", "video": "assets/videos/bicycle_crunch.mp4" },
+        { "name": "Bridge Marching", "type": "strength", "video": "assets/videos/bridge_marching.mp4" },
+        { "name": "Cocoons Exercise", "type": "core", "video": "assets/videos/cocoons.mp4" },
+        { "name": "Donkey Kicks Pulses", "type": "strength", "video": "assets/videos/donkey_kicks_pulses.mp4" },
+        { "name": "Knee Push-Up Exercise", "type": "strength", "video": "assets/videos/knee_pushup.mp4" },
+        { "name": "Pistol Squat Exercise", "type": "strength", "video": "assets/videos/pistol_squat.mp4" },
+        { "name": "Plank Frog Jump Exercise", "type": "core", "video": "assets/videos/plank_frog_jump.mp4" },
+        { "name": "Sumo Squat Jumps", "type": "strength", "video": "assets/videos/sumo_squat_jumps.mp4" },
+        { "name": "Side Left Leg Raises Exercise", "type": "strength", "video": "assets/videos/side_left_leg_raises.mp4" }
+      ]
+}
+},
+"adult": {
+  "female": {
+"normal": [
+        { "name": "Alternating Hurdles Exercise", "type": "cardio", "video": "assets/videos/alternating_hurdles.mp4" },
+        { "name": "Bent Knees Bench Dip Exercise", "type": "strength", "video": "assets/videos/bent_knees_bench_dip.mp4" },
+        { "name": "Bicycle Crunch Exercise", "type": "core", "video": "assets/videos/bicycle_crunch.mp4" },
+        { "name": "Bridge Marching", "type": "strength", "video": "assets/videos/bridge_marching.mp4" },
+        { "name": "Donkey Kicks Pulses", "type": "strength", "video": "assets/videos/donkey_kicks_pulses.mp4" },
+        { "name": "Elbow-to-Knee Crunch", "type": "core", "video": "assets/videos/elbow_to_knee_crunch.mp4" },
+        { "name": "Glute Bridge Exercise", "type": "strength", "video": "assets/videos/glute_bridge.mp4" },
+        { "name": "Plank Frog Jump Exercise", "type": "core", "video": "assets/videos/plank_frog_jump.mp4" },
+        { "name": "Side Left Leg Raises Exercise", "type": "strength", "video": "assets/videos/side_left_leg_raises.mp4" },
+        { "name": "Side Right Leg Raises Exercise", "type": "strength", "video": "assets/videos/side_right_leg_raises.mp4" }
+      ],
+      "underweight": [
+        { "name": "Alternating Hurdles Exercise", "type": "cardio", "video": "assets/videos/alternating_hurdles.mp4" },
+        { "name": "Bicycle Crunch Exercise", "type": "core", "video": "assets/videos/bicycle_crunch.mp4" },
+        { "name": "Cocoons Exercise", "type": "core", "video": "assets/videos/cocoons.mp4" },
+        { "name": "Donkey Kicks Pulses", "type": "strength", "video": "assets/videos/donkey_kicks_pulses.mp4" },
+        { "name": "Elbow-to-Knee Crunch", "type": "core", "video": "assets/videos/elbow_to_knee_crunch.mp4" },
+        { "name": "Glute Bridge Exercise", "type": "strength", "video": "assets/videos/glute_bridge.mp4" },
+        { "name": "Knee Push-Up Exercise", "type": "strength", "video": "assets/videos/knee_pushup.mp4" },
+        { "name": "Leg Pull Low Plank", "type": "core", "video": "assets/videos/leg_pull_low_plank.mp4" },
+        { "name": "Plank Shoulder Tap Exercise", "type": "core", "video": "assets/videos/plank_shoulder_tap.mp4" },
+        { "name": "Running Plank Exercise", "type": "cardio", "video": "assets/videos/running_plank.mp4" }
+      ],
+      "overweight": [
+        { "name": "Bent Knees Bench Dip Exercise", "type": "strength", "video": "assets/videos/bent_knees_bench_dip.mp4" },
+        { "name": "Bicycle Crunch Exercise", "type": "core", "video": "assets/videos/bicycle_crunch.mp4" },
+        { "name": "Bridge Marching", "type": "strength", "video": "assets/videos/bridge_marching.mp4" },
+        { "name": "Cocoons Exercise", "type": "core", "video": "assets/videos/cocoons.mp4" },
+        { "name": "Donkey Kicks Pulses", "type": "strength", "video": "assets/videos/donkey_kicks_pulses.mp4" },
+        { "name": "Knee Push-Up Exercise", "type": "strength", "video": "assets/videos/knee_pushup.mp4" },
+        { "name": "Pistol Squat Exercise", "type": "strength", "video": "assets/videos/pistol_squat.mp4" },
+        { "name": "Plank Frog Jump Exercise", "type": "core", "video": "assets/videos/plank_frog_jump.mp4" },
+        { "name": "Sumo Squat Jumps", "type": "strength", "video": "assets/videos/sumo_squat_jumps.mp4" },
+        { "name": "Side Left Leg Raises Exercise", "type": "strength", "video": "assets/videos/side_left_leg_raises.mp4" }
+      ]
+}
+}
+ 
+  }
+}

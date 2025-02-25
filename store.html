@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TrueBalance - Fitness Essentials</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f8f9fa;
+            color: #333;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: #2c3e50;
+            padding: 20px;
+            color: #fff;
+            width: 100%;
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 1000;
+        }
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            margin-right: auto; /* This will move the navigation links to the left */
+        }
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 10px;
+        }
+        nav ul li {
+            display: inline;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .hero {
+            text-align: center;
+            padding: 100px 20px;
+            background: url('fitness_bg.jpg') no-repeat center center/cover;
+            color: #fff;
+            position: relative;
+            margin-top: 80px;
+        }
+        .hero::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+        }
+        .hero-content {
+            position: relative;
+            z-index: 1;
+            padding: 30px;
+            background: rgba(255, 255, 255, 0.3);
+            display: inline-block;
+            border-radius: 10px;
+            max-width: 600px;
+        }
+        .hero h1 {
+            font-size: 36px;
+            margin: 0;
+        }
+        .hero p {
+            font-size: 18px;
+        }
+        .hero p span {
+            display: block;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+        .category {
+            display: flex;
+            flex-direction: row-reverse;
+            align-items: center;
+            justify-content: space-between;
+            padding: 40px 10%;
+            background: #fff;
+            margin: 20px auto;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .category h2 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        .category p {
+            font-size: 16px;
+            color: #555;
+        }
+        .category a {
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            align-items: center;
+            width: 100%;
+        }
+        .category img.main {
+            width: 25%;
+            border-radius: 10px;
+            transition: transform 0.3s ease;
+        }
+        .category img.main:hover {
+            transform: scale(1.05);
+        }
+        .category div {
+            flex: 1;
+        }
+        .back-home {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .back-home a {
+            display: inline-block;
+            background: #2c3e50;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s ease, transform 0.3s ease;
+        }
+        .back-home a:hover {
+            background: #1a252f;
+            transform: scale(1.05);
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #2c3e50;
+            color: #fff;
+            width: 100%;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">TrueBalance</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#">Store</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="hero">
+        <div class="hero-content">
+            <h1>TrueBalance Fitness Essentials</h1>
+            <p>Find the best equipment and nutrition products for your fitness journey.<br> Explore a wide range of fitness tools and supplements tailored to meet your unique needs.<br> Achieve your fitness goals with our top-of-the-line products and expert advice.</p>
+        </div>
+    </section>
+    <section class="category">
+        <a href="home_gym.html">
+            <div>
+                <h2>🏋️ Home Gym Equipment</h2>
+                <p>All the equipment you need to set up your personal home gym.</p>
+            </div>
+            <img src="home_gym.jpg" alt="Home Gym Equipment" class="main">
+        </a>
+    </section>
+    <section class="category">
+        <a href="nutrition.html">
+            <div>
+                <h2>🥗 Nutrition Supplements</h2>
+                <p>Top-quality nutrition supplements to support your fitness goals.</p>
+            </div>
+            <img src="nutrition.jpeg" alt="Nutrition Supplements" class="main">
+        </a>
+    </section>
+    <section class="category">
+        <a href="wearable_tech.html">
+            <div>
+                <h2>⌚ Wearable Fitness Tech</h2>
+                <p>The latest in wearable technology to track and enhance your workouts.</p>
+            </div>
+            <img src="wearable.jpg" alt="Wearable Fitness Tech" class="main">
+        </a>
+    </section>
+    <div class="back-home">
+        <a href="index.html">Back to Home</a>
+    </div>
+    <footer>
+        <p>&copy; 2025 TrueBalance. All rights reserved.</p>
+    </footer>
+</body>
+</html>

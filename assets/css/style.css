@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: #fff;
+    margin: 10px auto;
+    padding: 15px;
+    width: 80%;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    font-size: 18px;
+}
+
+button {
+    background: #28a745;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#timer {
+    font-size: 22px;
+    color: #d9534f;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.congratulations {
+    font-size: 24px;
+    color: #ff9800;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.exercise {
+    margin: 20px 0;
+}
+video {
+    width: 100%;
+    max-width: 500px;
+}
+button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
